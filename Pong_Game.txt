@@ -1,0 +1,11 @@
+#Sadiqul Islam
+#Simple Pong Game for Begineers
+
+Controlling Key:
+
+Left Up: R
+Left Down: F
+Right Up: U
+Right Down: J
+
+Note: If you want to know details in this game so you can contact with me.
